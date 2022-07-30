@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\bin\Debug\AlgoritmoScan.exe.config
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\bin\Debug\AlgoritmoScan.exe
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\bin\Debug\AlgoritmoScan.pdb
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScanSstf.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScanSstf.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScan.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScan.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScanSstf.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScanSstf.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScan.exe
+C:\Users\User\Documents\Visual Studio 2022\AlgoritmoScan\AlgoritmoScan\obj\Debug\AlgoritmoScan.pdb
